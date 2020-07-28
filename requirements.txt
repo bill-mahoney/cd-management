@@ -1,4 +1,4 @@
 rest3client
-mpcurses
+-e git+https://github.com/soda480/mpcurses.git@0.0.13#egg=mpcurses
 python-dateutil
 pytz
